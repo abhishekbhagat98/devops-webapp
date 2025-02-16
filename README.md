@@ -73,5 +73,5 @@ Contributions are welcome! Follow these steps:
 This project is licensed under the MIT License. See `LICENSE` for details.
 
 ## Contact
-For queries or collaborations, reach out via [your email or social media].
+For queries or collaborations, reach out via LinkedIn.
 
